@@ -1,5 +1,5 @@
 TCValidation for .NET
-Welcome to the repository of TcKimlikValidationAttribute, a custom validation attribute for .NET applications designed to validate Turkish National Identification Numbers (T.C. Kimlik Numarası). This attribute ensures that the input conforms to the specific rules of T.C. Identification Numbers, making it a valuable asset for any .NET application that requires validation of Turkish ID numbers.
+Welcome to the repository of TCValidation, a custom validation attribute for .NET applications designed to validate Turkish National Identification Numbers (T.C. Kimlik Numarası). This attribute ensures that the input conforms to the specific rules of T.C. Identification Numbers, making it a valuable asset for any .NET application that requires validation of Turkish ID numbers.
 
 Features
 Validation of Turkish ID Numbers: Ensures that the given number adheres to the standard format and validation rules of Turkish National Identification Numbers.
